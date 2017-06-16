@@ -1,2 +1,4 @@
 PyCall
 PyPlot
+Gadfly
+RDatasets
